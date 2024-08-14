@@ -1,5 +1,3 @@
-use <threadlib/threadlib.scad>
-
 module roundTaper(taperRadius, r, angle=360) {
   $fa = 1;
   $fs = 0.4;
